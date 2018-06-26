@@ -1,5 +1,5 @@
 {
-  "name": "qybcore-lib",
+  "name": "bitcore-lib-qyb",
   "version": "0.0.1",
   "description": "A pure and powerful JavaScript QYBcoin library.",
   "author": "BlockChain <dev@bitpay.com>",
