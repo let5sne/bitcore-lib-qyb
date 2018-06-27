@@ -1,5 +1,5 @@
 
 
-var bitcoreTasks = require('bitcore-build');
+var bitcoreTasks = require('bitcore-build-qyb');
 
-bitcoreTasks('lib');
+bitcoreTasks('lib-qyb');
